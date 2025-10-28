@@ -1,6 +1,6 @@
 # Welcome to the 2025 Break Through Tech Code Sprint! 👋 
 Over the next 6 weeks, you'll find a number of to-dos and curated resources to help you prepare for your coding interviews for opportunities in tech. Whether you're preparing for software engineering or ML coding interviews, and whether you're pursuing roles in big tech, Fortune 500s, or startups, everything you need will be here.  
-## Why did we create this? 
+## Why This Exists 
 As you likely know, the coding screen or technical assessment is a critical part of many interviews for internships and full-time roles technical positions. For many, preparing for these technical assessments can be time-consuming and stressful. Worse, if you’ve ever bombed one (we all have!), then preparing for technical screens might also feel demoralizing and anxiety-inducing. 
 
 Preparing for technical interviews is a learned skill, and it is a numbers game. Don’t believe us? Listen to the data: 
@@ -21,7 +21,7 @@ Preparing for technical interviews is a learned skill, and it is a numbers game.
 ## 2025 Code Sprint
 | Problem Sets | Solutions | Practice Resources |
 | :--- | :--- | :---|
-| [Code Sprint Week 1](https://leetcode.com/problem-list/viid7g7t/) | Check next week for the solutions! | Check next week for additional practice resources! |
+| [Code Sprint Week 1](https://leetcode.com/problem-list/viid7g7t/) | Check back 11/17 for the solutions! | Check back 11/17 for additional practice resources! |
  
 *Code Sprint Week 2 will be released on Monday, 11/17!*
 
@@ -33,4 +33,28 @@ Not all practice is created equal. If you find yourself unmotivated or discourag
 - 🔭 **Reflect on your practice.** Compile your code after you are done to check for any errors. Make a journal and jot down common mistakes, topics that give you trouble, or new solution approaches that you like and want to apply to other problems. The more you codify your lessons learned the less likely you'll be to make the same mistake twice.
   
 ## Additional Resources
-Check back soon for additional resources!
+### Sample coding interviews
+- Coding interview exemplar ([Virtual](https://lms.ecornell.com/courses/1848606/pages/heaps-practice-resources) | Boston)
+- Common interview pitfalls ([Virtual](https://lms.ecornell.com/courses/1848606/pages/watch-common-coding-interview-pitfalls?module_item_id=34523385) | Boston)
+
+### Break Through Tech concept review videos
+- Arrays and Sorting ([Virtual](https://lms.ecornell.com/courses/1848606/pages/arrays-and-sorting-practice-resources) | Boston)
+- Strings ([Virtual](https://lms.ecornell.com/courses/1848606/pages/strings-practice-resources) | Boston)
+- Trees and Binary Search ([Virtual](https://lms.ecornell.com/courses/1848606/pages/trees-and-binary-search-practice-resources) | Boston)
+- LinkedLists ([Virtual](https://lms.ecornell.com/courses/1848606/pages/linked-list-practice-resources) | Boston)
+- Stacks and Queues ([Virtual](https://lms.ecornell.com/courses/1848606/pages/stacks-and-queues-practice-resources) | Boston)
+- Heaps ([Virtual](https://lms.ecornell.com/courses/1848606/pages/heaps-practice-resources) | Boston)
+
+### Data Structure Tutorials by GeeksforGeeks
+- [Array data structure tutorial](https://www.geeksforgeeks.org/dsa/array-data-structure-guide/)
+- [Sorting algorithms guide](https://www.geeksforgeeks.org/dsa/sorting-algorithms/)
+- [Recursion algorithms guide](https://www.geeksforgeeks.org/dsa/recursion-algorithms/)
+- [String data structure tutorial](https://www.geeksforgeeks.org/dsa/string-data-structure/)
+- [Tree data structure](https://www.geeksforgeeks.org/dsa/tree-data-structure/)
+- [Stack data structure tutorial](https://www.geeksforgeeks.org/dsa/stack-data-structure/)
+- [Queue data structure tutorial](https://www.geeksforgeeks.org/dsa/queue-data-structure/)
+- [Linked List data structure tutorial](https://www.geeksforgeeks.org/dsa/linked-list-data-structure/)
+- [Hashing data structure tutorial](https://www.geeksforgeeks.org/dsa/hashing-data-structure/)
+- [Heap data structure tutorial](https://www.geeksforgeeks.org/dsa/heap-data-structure/)
+- [Graph data structure tutorial](https://www.geeksforgeeks.org/dsa/graph-data-structure-and-algorithms/)
+- [Greedy algorithms guide](https://www.geeksforgeeks.org/dsa/greedy-algorithms/)
