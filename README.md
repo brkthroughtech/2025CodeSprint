@@ -1,5 +1,5 @@
 # Welcome to the 2025 Break Through Tech Code Sprint! 👋 
-Over the next 6 weeks, you'll find a number of to-dos and curated resources to help you prepare for your coding interviews for opportunities in tech. Whether you're preparing for software engineering or ML coding interviews, and whether you're pursuing roles in big tech, Fortune 500s, or startups, everything you need will be here.  
+Over the next 6 weeks, you'll find a number of to-dos and curated resources to help you prepare for your coding interviews for opportunities in tech. Whether you're preparing for software engineering or ML coding interviews in big tech, Fortune 500s, or startups, everything you need will be here.  
 ## Why This Exists 
 As you likely know, the coding screen or technical assessment is a critical part of many interviews for internships and full-time roles technical positions. For many, preparing for these technical assessments can be time-consuming and stressful. Worse, if you’ve ever bombed one (we all have!), then preparing for technical screens might also feel demoralizing and anxiety-inducing. 
 
