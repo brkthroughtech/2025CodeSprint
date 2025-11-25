@@ -22,9 +22,10 @@ Preparing for technical interviews is a learned skill, and it is a numbers game.
 | Problem Sets | Solutions | Practice Resources |
 | :--- | :--- | :---|
 | [Code Sprint Week 1](https://leetcode.com/problem-list/viid7g7t/) | [Code Sprint Week 1 Solutions](https://docs.google.com/document/d/1lCAknTKd5qJv7dnwTp_wq_6kr0JCqYuzp-7BgCCIV84/edit?usp=sharing) | <ul><li>[Best Time to Buy and Sell Stock - Neetcode](https://www.youtube.com/watch?v=1pkOgXD63yU)</li><li>[Longest Common Prefix - Neetcode](https://www.youtube.com/watch?v=0sWShKIJoo4)</li><li>[Balanced Binary Tree - Neetcode](https://www.youtube.com/watch?v=QfJsau0ItOY)</li><li>[3Sum - Neetcode](https://www.youtube.com/watch?v=jzZsG8n2R9A)</li><li>[Multiply Strings - Neetcode](https://www.youtube.com/watch?v=1vZswirL8Y8)</li><li>[Lowest Common Ancestor of a BST - Neetcode](https://www.youtube.com/watch?v=6POfA8fruxI)</li></ul> |
-| [Code Sprint Week 2](https://leetcode.com/problem-list/vqwkfkvi/) | Check back 11/24 for the solutions! | Check back 11/24 for additional practice resources! |
+| [Code Sprint Week 2](https://leetcode.com/problem-list/vqwkfkvi/) | [Code Sprint Week 2 Solutions](https://leetcode.com/problem-list/vqwkfkvi/) | <ul><li>[Linked List Cycle - Neetcode](https://www.youtube.com/watch?v=gBTe7lFR3vc)</li><li>[Palindrome Linked List - Neetcode](https://www.youtube.com/watch?v=yOzXms1J6Nk)</li><li>[Middle of the Linked List - Neetcode](https://www.youtube.com/watch?v=A2_ldqM4QcY)</li><li>[Decode String - Neetcode](https://www.youtube.com/watch?v=qB0zZpBJlh8)</li><li>[Remove Nth Node from End of List](https://www.youtube.com/watch?v=XVuQxVej6y8)</li><li>[Min Stack - Neetcode](https://www.youtube.com/watch?v=qkLl7nAwDPo)</li></ul> |
+| [Code Sprint Week 3](https://leetcode.com/problem-list/vqwkfkvi/) | Check back 12/01 for the solutions! | Check back 12/01 for additional practice resources! |
  
-*Code Sprint Week 2 will be released on Monday, 11/17!*
+*Code Sprint Week 4 will be released on Monday, 12/01!*
 
 ## Tips for Success 
 Not all practice is created equal. If you find yourself unmotivated or discouraged grinding Leetcode, you're not alone. To make it a little less daunting, consider some of our tips for success below: 
